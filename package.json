@@ -1,8 +1,8 @@
 {
-  "name": "hsr_back_end",
+  "name": "capstone-project-2024-s1-team-9",
   "version": "1.0.0",
-  "description": "",
-  "main": "app.js",
+  "description": "[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/t8qno6SJ)",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "exppress": "^0.0.1-security",
-    "joi": "^17.13.0"
+    "express": "^4.19.2",
+    "joi": "^17.12.3"
   }
 }
